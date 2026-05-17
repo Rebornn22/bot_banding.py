@@ -1,1 +1,1 @@
-worker: python bot_banding.py
+worker: python bot_banding_gmail.py
